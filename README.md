@@ -21,7 +21,6 @@ Probably this will work with the most browsers, but here is a list which browser
 |      Firefox      |     ✅     |
 |      Chrome       |     ✅     |
 |        Edge       |     ✅     |
-| Internet Explorer |     ❌     |
 
 | Mobile Browser | supported |
 |:--------------:|:---------:|
